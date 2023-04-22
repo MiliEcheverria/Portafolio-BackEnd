@@ -1,10 +1,7 @@
-<<<<<<< HEAD
+
 <?xml version="1.0" encoding="UTF-8"?>
 <project-shared-configuration>
-=======
-<?xml version="1.0" encoding="UTF-8"?>
-<project-shared-configuration>
->>>>>>> 51cfe50 (Mi primer commit)
+
     <!--
 This file contains additional configuration written by modules in the NetBeans IDE.
 The configuration is intended to be shared among all the users of project and
@@ -13,10 +10,7 @@ Without this configuration present, some functionality in the IDE may be limited
 <<<<<<< HEAD
 -->
     <properties xmlns="http://www.netbeans.org/ns/maven-properties-data/1">
-=======
--->
-    <properties xmlns="http://www.netbeans.org/ns/maven-properties-data/1">
->>>>>>> 51cfe50 (Mi primer commit)
+
         <!--
 Properties that influence various parts of the IDE, especially code formatting and the like. 
 You can copy and paste the single properties, into the pom.xml file and the IDE will pick them up.
@@ -28,10 +22,4 @@ Any value defined here will override the pom.xml file value but is only applicab
         <netbeans.hint.jdkPlatform>JDK_17</netbeans.hint.jdkPlatform>
     </properties>
 </project-shared-configuration>
-=======
--->
-        <org-netbeans-modules-javascript2-requirejs.enabled>true</org-netbeans-modules-javascript2-requirejs.enabled>
-        <netbeans.hint.jdkPlatform>JDK_17</netbeans.hint.jdkPlatform>
-    </properties>
-</project-shared-configuration>
->>>>>>> 51cfe50 (Mi primer commit)
+

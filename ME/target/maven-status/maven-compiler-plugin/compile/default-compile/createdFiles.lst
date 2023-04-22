@@ -14,6 +14,7 @@ com\portfolio\ME\Security\MainSecurity.class
 com\portfolio\ME\Security\Controller\Mensaje.class
 com\portfolio\ME\Dto\dtoPersona.class
 com\portfolio\ME\Service\SExperiencia.class
+com\portfolio\ME\WebConfig.class
 com\portfolio\ME\Security\Entity\UsuarioPrincipal.class
 com\portfolio\ME\Security\jwt\JwtTokenFilter.class
 com\portfolio\ME\Entity\hys.class
