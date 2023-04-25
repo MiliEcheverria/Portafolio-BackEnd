@@ -4,5 +4,5 @@
 
 FROM amazoncorretto:11-alpine-jdk
 MAINTAINER ME
-copy target/ME-0.01-SNAPSHOT.jar me-app.jar
+COPY  target/ME-0.0.1-SNAPSHOT.jar me-app.jar
 ENTRYPOINT ['java', "-jar", "/me-app.jar"]
