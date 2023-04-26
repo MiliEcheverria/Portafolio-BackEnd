@@ -1,8 +1,5 @@
-
-# Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
-# Click nbfs://nbhost/SystemFileSystem/Templates/Other/Dockerfile to edit this template
-
 FROM amazoncorretto:11-alpine-jdk
 MAINTAINER ME
-COPY target/ME-0.0.1-SNAPSHOT.jar me-app.jar
-ENTRYPOINT ['java', "-jar", "/me-app.jar"]
+RUN apk --no-cache add wget
+RUN wget -O me-app.jar "https://drive.google.com/file/d/1fDv4qdvs0aPyVoGhjvHoLADo5N2W29nn/view?usp=share_link"
+ENTRYPOINT ["java", "-jar", "/me-app.jar"]
