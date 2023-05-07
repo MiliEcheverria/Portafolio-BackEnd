@@ -3,6 +3,7 @@ com\portfolio\ME\Controler\CEducacion.class
 com\portfolio\ME\Repository\IPersonaRepository.class
 com\portfolio\ME\Service\ImpPersonaService.class
 com\portfolio\ME\Service\Seducacion.class
+com\portfolio\ME\Controler\CProyecto.class
 com\portfolio\ME\Entity\Educacion.class
 com\portfolio\ME\Security\Service\UserDetailsIMP.class
 com\portfolio\ME\Dto\dtoEducacion.class
@@ -14,15 +15,18 @@ com\portfolio\ME\Security\MainSecurity.class
 com\portfolio\ME\Security\Controller\Mensaje.class
 com\portfolio\ME\Dto\dtoPersona.class
 com\portfolio\ME\Service\SExperiencia.class
+com\portfolio\ME\Repository\RProyecto.class
 com\portfolio\ME\WebConfig.class
 com\portfolio\ME\Security\Entity\UsuarioPrincipal.class
 com\portfolio\ME\Security\jwt\JwtTokenFilter.class
 com\portfolio\ME\Entity\hys.class
 com\portfolio\ME\Security\Dto\LoginUsuario.class
+com\portfolio\ME\Dto\dtoProyecto.class
 com\portfolio\ME\Security\Entity\Usuario.class
 com\portfolio\ME\Service\Shys.class
 com\portfolio\ME\Controler\CExperiencia.class
 com\portfolio\ME\Controler\CHys.class
+com\portfolio\ME\Entity\Proyecto.class
 com\portfolio\ME\Security\Service\UsuarioService.class
 com\portfolio\ME\Security\Entity\Rol.class
 com\portfolio\ME\Security\jwt\JwtProvider.class
@@ -30,6 +34,7 @@ com\portfolio\ME\Security\Repository\IUsuarioRepository.class
 com\portfolio\ME\Entity\Persona.class
 com\portfolio\ME\Security\Controller\AuthController.class
 com\portfolio\ME\Security\Repository\IRolRepository.class
+com\portfolio\ME\Service\SProyecto.class
 com\portfolio\ME\Dto\dtoExperiencia.class
 com\portfolio\ME\Entity\Experiencia.class
 com\portfolio\ME\Security\Dto\JwtDto.class

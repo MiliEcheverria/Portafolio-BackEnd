@@ -1,12 +1,16 @@
 C:\Users\Milagros\Desktop\Milagros\Git\PortafolioFrontend\ProyectoMilagrosE\Backend\ME\src\main\java\com\portfolio\ME\Entity\Persona.java
 C:\Users\Milagros\Desktop\Milagros\Git\PortafolioFrontend\ProyectoMilagrosE\Backend\ME\src\main\java\com\portfolio\ME\Security\jwt\JwtProvider.java
 C:\Users\Milagros\Desktop\Milagros\Git\PortafolioFrontend\ProyectoMilagrosE\Backend\ME\src\main\java\com\portfolio\ME\Service\Shys.java
+C:\Users\Milagros\Desktop\Milagros\Git\PortafolioFrontend\ProyectoMilagrosE\Backend\ME\src\main\java\com\portfolio\ME\Controler\CProyecto.java
 C:\Users\Milagros\Desktop\Milagros\Git\PortafolioFrontend\ProyectoMilagrosE\Backend\ME\src\main\java\com\portfolio\ME\Repository\Rhys.java
+C:\Users\Milagros\Desktop\Milagros\Git\PortafolioFrontend\ProyectoMilagrosE\Backend\ME\src\main\java\com\portfolio\ME\Service\SProyecto.java
 C:\Users\Milagros\Desktop\Milagros\Git\PortafolioFrontend\ProyectoMilagrosE\Backend\ME\src\main\java\com\portfolio\ME\Security\Service\UserDetailsIMP.java
 C:\Users\Milagros\Desktop\Milagros\Git\PortafolioFrontend\ProyectoMilagrosE\Backend\ME\src\main\java\com\portfolio\ME\Repository\REducacion.java
+C:\Users\Milagros\Desktop\Milagros\Git\PortafolioFrontend\ProyectoMilagrosE\Backend\ME\src\main\java\com\portfolio\ME\Repository\RProyecto.java
 C:\Users\Milagros\Desktop\Milagros\Git\PortafolioFrontend\ProyectoMilagrosE\Backend\ME\src\main\java\com\portfolio\ME\Entity\Experiencia.java
 C:\Users\Milagros\Desktop\Milagros\Git\PortafolioFrontend\ProyectoMilagrosE\Backend\ME\src\main\java\com\portfolio\ME\Controler\CExperiencia.java
 C:\Users\Milagros\Desktop\Milagros\Git\PortafolioFrontend\ProyectoMilagrosE\Backend\ME\src\main\java\com\portfolio\ME\Security\Enums\RolNombre.java
+C:\Users\Milagros\Desktop\Milagros\Git\PortafolioFrontend\ProyectoMilagrosE\Backend\ME\src\main\java\com\portfolio\ME\Entity\Proyecto.java
 C:\Users\Milagros\Desktop\Milagros\Git\PortafolioFrontend\ProyectoMilagrosE\Backend\ME\src\main\java\com\portfolio\ME\Security\jwt\JwtEntryPoint.java
 C:\Users\Milagros\Desktop\Milagros\Git\PortafolioFrontend\ProyectoMilagrosE\Backend\ME\src\main\java\com\portfolio\ME\Security\Dto\NuevoUsuario.java
 C:\Users\Milagros\Desktop\Milagros\Git\PortafolioFrontend\ProyectoMilagrosE\Backend\ME\src\main\java\com\portfolio\ME\Security\Entity\Rol.java
@@ -18,6 +22,7 @@ C:\Users\Milagros\Desktop\Milagros\Git\PortafolioFrontend\ProyectoMilagrosE\Back
 C:\Users\Milagros\Desktop\Milagros\Git\PortafolioFrontend\ProyectoMilagrosE\Backend\ME\src\main\java\com\portfolio\ME\Security\Repository\IRolRepository.java
 C:\Users\Milagros\Desktop\Milagros\Git\PortafolioFrontend\ProyectoMilagrosE\Backend\ME\src\main\java\com\portfolio\ME\Dto\dtoHys.java
 C:\Users\Milagros\Desktop\Milagros\Git\PortafolioFrontend\ProyectoMilagrosE\Backend\ME\src\main\java\com\portfolio\ME\Security\Repository\IUsuarioRepository.java
+C:\Users\Milagros\Desktop\Milagros\Git\PortafolioFrontend\ProyectoMilagrosE\Backend\ME\src\main\java\com\portfolio\ME\Dto\dtoProyecto.java
 C:\Users\Milagros\Desktop\Milagros\Git\PortafolioFrontend\ProyectoMilagrosE\Backend\ME\src\main\java\com\portfolio\ME\Repository\IPersonaRepository.java
 C:\Users\Milagros\Desktop\Milagros\Git\PortafolioFrontend\ProyectoMilagrosE\Backend\ME\src\main\java\com\portfolio\ME\Entity\Educacion.java
 C:\Users\Milagros\Desktop\Milagros\Git\PortafolioFrontend\ProyectoMilagrosE\Backend\ME\src\main\java\com\portfolio\ME\Controler\CEducacion.java
