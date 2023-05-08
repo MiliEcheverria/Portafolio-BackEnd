@@ -1,5 +1,7 @@
 FROM amazoncorretto:17-alpine-jdk
 MAINTAINER ME
-RUN wget --no-check-certificate "https://drive.google.com/file/d/1UiAm7JNCUezmDvUU_S5P6Lti_nEgGJ60/view?usp=share_link" -O ME-0.0.1-SNAPSHOT.jar
+RUN apk update && apk add curl
+RUN curl -LJO "https://drive.google.com/file/d/1njsK4Ym3OP7wxnZRgGiCFZdq8PF5QcNC/view?usp=share_link" -o "ME-0.0.1-SNAPSHOT.jar"
+
 
 ENTRYPOINT ["java", "-jar", "ME-0.0.1-SNAPSHOT.jar"]
